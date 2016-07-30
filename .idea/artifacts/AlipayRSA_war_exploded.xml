@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="AlipayRSA:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/AlipayRSA_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="AlipayRSA" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="AlipayRSA/web/Web" />
+    </root>
+  </artifact>
+</component>
